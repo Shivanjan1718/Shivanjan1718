@@ -57,7 +57,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55" alt="Matplotlib"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" height="55" alt="Matplotlib"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/></td>
   </tr>
 </table>
@@ -73,10 +73,11 @@
 **Databases**
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="MS SQL Server"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ssms/CC2927" width="55" height="55" alt="SSMS"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="MS SQL Server / SSMS"/></td>
   </tr>
 </table>
+
+<sub>SSMS has no dedicated icon in Simple Icons (request was declined upstream) — represented above via the SQL Server icon.</sub>
 
 **Dev Tools**
 <table>
